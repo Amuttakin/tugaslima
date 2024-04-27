@@ -18,7 +18,7 @@ body {
     position: absolute;
     object-fit: cover;
     width: 99%;
-    height: 300%;
+    height: 500%;
 }
 .wrapper h1{
     object-fit: cover;
@@ -91,7 +91,7 @@ body {
     .wrapper video {
         order: 1;
         width: 99%;
-        height: 240%;
+        height: 300%;
 
     }
     .nav{
